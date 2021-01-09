@@ -1,0 +1,13 @@
+pengacara bisa bales mail & baca
+ada admin & super admin
+su bisa add admin
+admin bisa tambah pengacara
+admin bisa baca bales & baca email
+admin bisa ubah profile
+
+pengacara bisa edit profile, liat inbox
+
+pengacara & admin bisa lupa password
+
+cari template email
+

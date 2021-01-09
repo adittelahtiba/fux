@@ -1,0 +1,12 @@
+INSERT into bidangkeahlian (bidangkeahlian.NamaBk, bidangkeahlian.IdPengacara) VALUES ('wow', bobi);
+
+
+SELECT pengacara.IdPengacara as 'xxo' from pengacara join bidangkeahlian on bidangkeahlian.IdPengacara = pengacara.IdPengacara;
+INSERT into pengacara (pengacara.IdPengacara, pengacara.NamaPengacara) VALUES (pengacara.IdPengacara, 'awkkawkawkaw');
+INSERT into bidangkeahlian (bidangkeahlian.IdPengacara, bidangkeahlian.NamaBk) VALUES (IdPengacara, 'awkkawkawkaw');
+
+
+
+SELECT pengacara.IdPengacara as 'xxo' from pengacara join bidangkeahlian on bidangkeahlian.IdPengacara = pengacara.IdPengacara;
+INSERT into pengacara (pengacara.IdPengacara, pengacara.NamaPengacara) VALUES (pengacara.IdPengacara, 'awkkawkawkaw');
+INSERT into bidangkeahlian (bidangkeahlian.IdPengacara, bidangkeahlian.NamaBk) VALUES (pengacara.IdPengacara, 'awkkawkawkaw');
